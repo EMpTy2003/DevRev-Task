@@ -1,0 +1,16 @@
+.App{
+    font-family: 'Poppins', sans-serif;
+}
+
+.App-header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
+
+.App-Body{
+    margin-top: 4.5rem;
+    padding-top: 1px;
+}

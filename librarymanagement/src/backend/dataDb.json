@@ -1,0 +1,133 @@
+{
+  "Books": [
+    {
+      "id": 1,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 200,
+      "stock": 98,
+      "publishedDate": "1988-01-01",
+      "description": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.",
+      "imgUrl": "https://qph.cf2.quoracdn.net/main-qimg-5b65b97af39e718ba23707a7c2bce28a-pjlq"
+    },
+    {
+      "id": 2,
+      "bookName": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "price": 300,
+      "stock": 99,
+      "publishedDate": "1997-01-01",
+      "description": "The Monk Who Sold His Ferrari is a self-help book by Robin Sharma, a writer and motivational speaker. The book is a business fable derived from Sharma's personal experiences after leaving his career as a litigation lawyer at the age of 25.",
+      "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/71i5nc6xnGL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+      "id": 3,
+      "bookName": "The Secret",
+      "author": "Rhonda Byrne",
+      "price": 400,
+      "stock": 99,
+      "publishedDate": "2006-01-01",
+      "description": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the pseudoscientific law of attraction, which claims that thoughts can change a person's life directly. The book alleges energy as assurance of its effectiveness.",
+      "imgUrl": "https://www.thesecret.tv/wp-content/uploads/2015/05/The-Secret-Documentary.png"
+    },
+    {
+      "id": 4,
+      "bookName": "The Power of Your Subconscious Mind",
+      "author": "Joseph Murphy",
+      "price": 500,
+      "stock": 100,
+      "publishedDate": "1963-01-01",
+      "description": "Here is the complete, original text of the millions-selling self- help guide that reveals your invisible power to attain any goal-paired with a compelling bonus work, How to Attract Money.",
+      "imgUrl": "https://m.media-amazon.com/images/I/71UwSHSZRnS._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 5,
+      "bookName": "The Power of Positive Thinking",
+      "author": "Norman Vincent Peale",
+      "price": 600,
+      "stock": 100,
+      "publishedDate": "1952-01-01",
+      "description": "The Power of Positive Thinking: A Practical Guide to Mastering the Problems of Everyday Living is a 1952 self-help book by American minister Norman Vincent Peale.",
+      "imgUrl": "https://m.media-amazon.com/images/I/81ND4ZcIsxL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": 6,
+      "bookName": "The Power of Now",
+      "author": "Eckhart Tolle",
+      "price": 700,
+      "stock": 100,
+      "publishedDate": "1997-01-01",
+      "description": "To make the journey into the Now we will need to leave our analytical mind and its false created self, the ego, behind. From the very first page of Eckhart Tolle's extraordinary book, we move rapidly into a significantly higher altitude where we breathe a lighter air. We become connected to the indestructible essence of our Being, “The eternal, ever present One Life beyond the myriad forms of life that are subject to birth and death.” Although the journey is challenging, Eckhart Tolle uses simple language and an easy question and answer format to guide us.",
+      "imgUrl": "https://m.media-amazon.com/images/I/4108V6JJ+jL.jpg"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "emailId": "test@gmail.com",
+      "password": "1234",
+      "cart": [],
+      "rent": [
+        {
+          "bookName": "The Alchemist",
+          "bookAuthor": "Paulo Coelho",
+          "bookDescription": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.",
+          "bookPublishedDate": "1988-01-01",
+          "bookImgUrl": "https://qph.cf2.quoracdn.net/main-qimg-5b65b97af39e718ba23707a7c2bce28a-pjlq",
+          "id": 1,
+          "price": 200,
+          "orderDate": "7/12/2023",
+          "orderStatus": "Delivered"
+        },
+        {
+          "bookName": "The Monk Who Sold His Ferrari",
+          "bookAuthor": "Robin Sharma",
+          "bookDescription": "The Monk Who Sold His Ferrari is a self-help book by Robin Sharma, a writer and motivational speaker. The book is a business fable derived from Sharma's personal experiences after leaving his career as a litigation lawyer at the age of 25.",
+          "bookPublishedDate": "1997-01-01",
+          "bookImgUrl": "https://images-eu.ssl-images-amazon.com/images/I/71i5nc6xnGL._AC_UL600_SR600,600_.jpg",
+          "id": 2,
+          "price": 300,
+          "orderDate": "7/12/2023",
+          "orderStatus": "Delivered"
+        },
+        {
+          "bookName": "The Secret",
+          "bookAuthor": "Rhonda Byrne",
+          "bookDescription": "The Secret is a 2006 self-help book by Rhonda Byrne, based on the earlier film of the same name. It is based on the belief of the pseudoscientific law of attraction, which claims that thoughts can change a person's life directly. The book alleges energy as assurance of its effectiveness.",
+          "bookPublishedDate": "2006-01-01",
+          "bookImgUrl": "https://www.thesecret.tv/wp-content/uploads/2015/05/The-Secret-Documentary.png",
+          "id": 3,
+          "price": 400,
+          "orderDate": "7/12/2023",
+          "orderStatus": "Delivered"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "firstName": "Thoufeek",
+      "lastName": "MJ",
+      "emailId": "t@gamil.com",
+      "password": "1234",
+      "cart": [],
+      "rent": [
+        {
+          "bookName": "The Alchemist",
+          "bookAuthor": "Paulo Coelho",
+          "bookDescription": "The Alchemist is a novel by Brazilian author Paulo Coelho which was first published in 1988. Originally written in Portuguese, it became a widely translated international bestseller.",
+          "bookPublishedDate": "1988-01-01",
+          "bookImgUrl": "https://qph.cf2.quoracdn.net/main-qimg-5b65b97af39e718ba23707a7c2bce28a-pjlq",
+          "id": 1,
+          "price": 200,
+          "orderDate": "7/12/2023",
+          "orderStatus": "Delivered"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "backend": {
+    "url": "http://localhost:4000"
+  }
+}
