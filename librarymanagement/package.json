@@ -1,7 +1,6 @@
 {
   "name": "librarymanagement",
   "version": "0.1.0",
-  "homepage": "https://EMpTy2003.github.io/DevRev-Task",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
@@ -19,10 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": " concurrently \" npx nodemon ./src/backend/server.js \" \"react-scripts start\" ",
-    "build": "react-scripts build",
+    "build": "npm i",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
