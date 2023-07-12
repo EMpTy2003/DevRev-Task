@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/DevRev-Task/static/css/main.a2d0b83a.css",
+    "main.js": "/DevRev-Task/static/js/main.23b1db81.js",
+    "static/js/787.dce471fc.chunk.js": "/DevRev-Task/static/js/787.dce471fc.chunk.js",
+    "static/media/bg.jpg": "/DevRev-Task/static/media/bg.55cf974ab11fb8371331.jpg",
+    "static/media/cart.png": "/DevRev-Task/static/media/cart.6cca81dfaa7b4521c318.png",
+    "index.html": "/DevRev-Task/index.html",
+    "main.a2d0b83a.css.map": "/DevRev-Task/static/css/main.a2d0b83a.css.map",
+    "main.23b1db81.js.map": "/DevRev-Task/static/js/main.23b1db81.js.map",
+    "787.dce471fc.chunk.js.map": "/DevRev-Task/static/js/787.dce471fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2d0b83a.css",
+    "static/js/main.23b1db81.js"
+  ]
+}
