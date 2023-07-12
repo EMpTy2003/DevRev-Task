@@ -128,6 +128,6 @@
     }
   ],
   "backend": {
-    "url": "http://localhost:4000"
+    "url": "https://library-management-backend-5m0u.onrender.com"
   }
 }
