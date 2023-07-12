@@ -18,7 +18,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": " concurrently \" npx nodemon ./src/backend/server.js \" \"react-scripts start\" ",
+    "dev":"npx nodemon ./src/backend/server.js",
+    "start": "react-scripts start",
     "build": "npm i",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
